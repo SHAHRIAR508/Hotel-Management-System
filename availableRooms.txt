@@ -1,0 +1,17 @@
+101;Ordinary Room;Available;4000;
+102;Ordinary Room;Available;4000;
+103;Ordinary Room;Available;4000;
+104;Ordinary Room;Available;4000;
+105;Ordinary Room;Available;4000;
+201;Luxary Room;Available;5500
+202;Luxary Room;Booked;5500;
+203;Luxary Room;Booked;5500;
+204;Luxary Room;Booked;5500;
+205;Luxary Room;Booked;5500;
+301;Duplex Room;Available;7500;
+302;Duplex Room;Available;7500;
+303;Duplex Room;Available;7500;
+304;Duplex Room;Available;7500;
+305;Duplex Room;Available;7500;
+
+602;Duplex Room;Available;800

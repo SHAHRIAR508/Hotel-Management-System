@@ -1,0 +1,5 @@
+301;Duplex Room;235568;dip;01820195977;2;15000;dfdfdfdfdf;Pending;
+301;Duplex Room;235568;dip;01820195977;2;15000;dfdfdfdfdf;Pending;
+301;Duplex Room;235568;dip;01820195977;2;15000;dfdfdfdfdf;Pending;
+101;Ordinary Room;235568;dip;01820195977;2;8000;dfdfdfdfdf;Pending;
+301;Duplex Room;235568;dip;01820195977;4;30000;dfdfdfdfdf;Pending;
